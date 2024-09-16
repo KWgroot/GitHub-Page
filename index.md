@@ -6,7 +6,7 @@ layout: default
 
 <p style="text-align:left;">I promise!</p>
 
-<p style="text-align:center;">I promise!</p>
+<p style="text-align:center;">I boink!</p>
 
 <p style="text-align:right;">I promise!</p>
 
