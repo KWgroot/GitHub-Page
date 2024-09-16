@@ -4,7 +4,7 @@ layout: default
 
 # Will be filled soon!
 
-I promise! gfwleiughflwieughfliweruhfglwehf;oiwerhtgfiluewrhtgluewrhgtlerhtljwerhterhjtiujhertouihe4rtogihjerotg;ihjer;ogtihjer;goisjhre;goihjesroigjhesrogheroighje;roighjeroihjgeroighj
+<p style="text-align:center;">I promise!</p>
 
 [Link to another page](./another-page.html).
 
