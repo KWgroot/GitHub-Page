@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Header 1 
+# Test Header
 
-This is a test.
+Test text
